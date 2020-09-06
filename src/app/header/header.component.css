@@ -1,0 +1,30 @@
+.navbar {
+  background-color: #005835;
+}
+
+.nav-item {
+  color: white;
+  margin-left: 14px;
+  font-family: sans-serif;
+}
+
+.nav-item:hover {
+  border-bottom: solid 2px #fff;
+}
+
+.btn-white {
+  color: #005835;
+  -webkit-box-shadow: #005835 0px 6px 22px;
+          box-shadow: #005835 0px 6px 22px;
+  background: #f6f6f6;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #005835;
+  -o-border-image: initial;
+     border-image: initial;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+  border-radius: 30px;
+  padding: 11px 28px;
+}
+/*# sourceMappingURL=header.component.css.map */
