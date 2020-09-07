@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAEA,AAAA,eAAe,CAAC;EACd,gBAAgB,EAAE,+BAA+B;EAEjD,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;CAKvB;;AATD,AAME,eANa,CAMb,EAAE,CAAC;EACD,KAAK,EATC,OAAc;CAUrB",
+    "mappings": "AAEA,AAAA,eAAe,CAAC;EACd,gBAAgB,EAAE,+BAA+B;EAEjD,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;EACtB,OAAO,EAAC,IAAI;CAKb;;AAVD,AAOE,eAPa,CAOb,EAAE,CAAC;EACD,KAAK,EAVC,OAAc;CAWrB",
     "sources": [
         "challenge-area.component..scss"
     ],

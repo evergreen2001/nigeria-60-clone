@@ -1,0 +1,40 @@
+$primary: rgb(0, 88, 53);
+
+.challenge-area {
+  background-image: url(../../assets/imagex/bg2.svg);
+  // background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+  position: relative;
+    overflow: hidden;
+
+
+  h1 {
+    color: $primary;
+    font-weight:800;
+  }
+
+  p {
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin: 0px;
+    font-size: 14px;
+    color: #303030;
+    line-height: 30px;
+  }
+}
+
+.img-fluidx {
+  // width:710px;
+  // position: absolute;
+  // left: -80px;
+  //   top: -100px;
+  //   padding-top:80px
+
+  // position: relative;
+  max-width: 120%;
+  pointer-events: none;
+  left: -120px;
+  // height: 70%;
+}

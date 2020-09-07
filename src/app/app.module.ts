@@ -7,6 +7,8 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HeroAreaComponent } from './hero-area/hero-area.component';
 import { ChallengeAreaComponent } from './challenge-area/challenge-area.component';
+import { TimelineComponent } from './timeline/timeline.component';
+import { PrizesComponent } from './prizes/prizes.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +16,9 @@ import { ChallengeAreaComponent } from './challenge-area/challenge-area.componen
     HeaderComponent,
     FooterComponent,
     HeroAreaComponent,
-    ChallengeAreaComponent
+    ChallengeAreaComponent,
+    TimelineComponent,
+    PrizesComponent
   ],
   imports: [
     BrowserModule,

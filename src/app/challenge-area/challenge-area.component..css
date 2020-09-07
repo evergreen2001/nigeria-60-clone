@@ -2,6 +2,7 @@
   background-image: url(../../assets/imagex/bg.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 30px;
 }
 
 .challenge-area h1 {

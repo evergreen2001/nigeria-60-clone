@@ -1,0 +1,29 @@
+.challenge-area {
+  background-image: url(../../assets/imagex/bg2.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.challenge-area h1 {
+  color: #005835;
+  font-weight: 800;
+}
+
+.challenge-area p {
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  margin: 0px;
+  font-size: 14px;
+  color: #303030;
+  line-height: 30px;
+}
+
+.img-fluidx {
+  max-width: 120%;
+  pointer-events: none;
+  left: -120px;
+}
+/*# sourceMappingURL=challenge-area.component.css.map */
