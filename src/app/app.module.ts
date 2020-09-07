@@ -9,6 +9,7 @@ import { HeroAreaComponent } from './hero-area/hero-area.component';
 import { ChallengeAreaComponent } from './challenge-area/challenge-area.component';
 import { TimelineComponent } from './timeline/timeline.component';
 import { PrizesComponent } from './prizes/prizes.component';
+import { VoteAreaComponent } from './vote-area/vote-area.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { PrizesComponent } from './prizes/prizes.component';
     HeroAreaComponent,
     ChallengeAreaComponent,
     TimelineComponent,
-    PrizesComponent
+    PrizesComponent,
+    VoteAreaComponent
   ],
   imports: [
     BrowserModule,

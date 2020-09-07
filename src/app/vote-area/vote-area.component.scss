@@ -1,0 +1,60 @@
+$primary: rgb(0, 88, 53);
+$commonwhite: #fff;
+
+.vote-area {
+  background-image: url(../../assets/imagex/bg2.svg);
+  // background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+  position: relative;
+  overflow: hidden;
+
+  h1 {
+    color: $commonwhite;
+    font-weight: 800;
+  }
+
+  p {
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin: 0px;
+    font-size: 14px;
+    color: $commonwhite;
+    line-height: 30px;
+  }
+
+  .col-lg-3 {
+    display: flex;
+    align-items: center;
+    .img-fluidx {
+        max-width: 200px;
+        height: auto;
+        margin: 20px auto;
+      }
+      
+  }
+
+.action-button{
+
+    display:flex;
+    justify-content:center;
+}
+
+  .btn-white{
+
+    color: $primary;
+    box-shadow: $primary 0px 6px 22px;
+    background: rgb(246, 246, 246);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 88, 53);
+    border-image: initial;
+    transition: all 0.2s ease-in-out 0s;
+    border-radius: 30px;
+    padding:11px 28px ;
+    margin:70px 0 27px 0;
+
+}
+}
+

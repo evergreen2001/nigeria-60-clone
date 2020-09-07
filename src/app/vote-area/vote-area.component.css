@@ -1,0 +1,64 @@
+.vote-area {
+  background-image: url(../../assets/imagex/bg2.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.vote-area h1 {
+  color: #fff;
+  font-weight: 800;
+}
+
+.vote-area p {
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  margin: 0px;
+  font-size: 14px;
+  color: #fff;
+  line-height: 30px;
+}
+
+.vote-area .col-lg-3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.vote-area .col-lg-3 .img-fluidx {
+  max-width: 200px;
+  height: auto;
+  margin: 20px auto;
+}
+
+.vote-area .action-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.vote-area .btn-white {
+  color: #005835;
+  -webkit-box-shadow: #005835 0px 6px 22px;
+          box-shadow: #005835 0px 6px 22px;
+  background: #f6f6f6;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #005835;
+  -o-border-image: initial;
+     border-image: initial;
+  -webkit-transition: all 0.2s ease-in-out 0s;
+  transition: all 0.2s ease-in-out 0s;
+  border-radius: 30px;
+  padding: 11px 28px;
+  margin: 70px 0 27px 0;
+}
+/*# sourceMappingURL=vote-area.component.css.map */
