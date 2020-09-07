@@ -1,0 +1,12 @@
+$primary: rgb(0, 88, 53);
+
+.challenge-area {
+  background-image: url(../../assets/imagex/bg.svg);
+  // background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  h1 {
+    color: $primary;
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,eAAe,CAAC;EACd,gBAAgB,EAAE,+BAA+B;EAEjD,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;CAKvB;;AATD,AAME,eANa,CAMb,EAAE,CAAC;EACD,KAAK,EATC,OAAc;CAUrB",
+    "sources": [
+        "challenge-area.component..scss"
+    ],
+    "names": [],
+    "file": "challenge-area.component..css"
+}

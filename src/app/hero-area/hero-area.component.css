@@ -1,0 +1,22 @@
+.hero-area {
+  margin-top: 130px;
+  text-align: center;
+  background-image: url(../../assets/imagex/bg.svg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-area h1 {
+  color: #005835;
+  font-weight: 700;
+}
+
+.hero-area p {
+  font-size: 17px;
+}
+
+.hero-area img {
+  width: 80%;
+}
+/*# sourceMappingURL=hero-area.component.css.map */

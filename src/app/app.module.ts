@@ -5,12 +5,16 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
+import { HeroAreaComponent } from './hero-area/hero-area.component';
+import { ChallengeAreaComponent } from './challenge-area/challenge-area.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    HeroAreaComponent,
+    ChallengeAreaComponent
   ],
   imports: [
     BrowserModule,

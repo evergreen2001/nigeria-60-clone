@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AAAA,UAAU,CAAA;EACN,UAAU,EAAC,KAAK;EACpB,UAAU,EAAC,MAAM;EACb,gBAAgB,EAAE,+BAA+B;EACjD,qBAAqB,EAAE,KAAK;EAChC,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;CAarB;;AAnBD,AAOI,UAPM,CAON,EAAE,CAAA;EACE,KAAK,EAbJ,OAAc;EAcf,WAAW,EAAE,GAAG;CACnB;;AAVL,AAWA,UAXU,CAWV,CAAC,CAAA;EACG,SAAS,EAAE,IAAI;CAClB;;AAbD,AAeI,UAfM,CAeN,GAAG,CAAA;EACC,KAAK,EAAC,GAAG;CACZ",
+    "sources": [
+        "hero-area.component.scss"
+    ],
+    "names": [],
+    "file": "hero-area.component.css"
+}

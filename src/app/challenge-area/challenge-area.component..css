@@ -1,0 +1,10 @@
+.challenge-area {
+  background-image: url(../../assets/imagex/bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.challenge-area h1 {
+  color: #005835;
+}
+/*# sourceMappingURL=challenge-area.component..css.map */
