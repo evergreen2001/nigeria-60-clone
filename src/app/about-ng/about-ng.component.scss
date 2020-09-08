@@ -1,0 +1,30 @@
+
+$primary: rgb(0, 88, 53);
+$commonwhite: #fff;
+$primary-bg:#005835;
+
+
+
+
+.about-ng {
+  background-image: url(../../assets/imagex/bg.svg);
+  // background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+  position: relative;
+  overflow: hidden;
+
+  h1 {
+    color: $primary;
+    font-weight: 800;
+    margin-bottom:20px;
+  }
+
+  p {
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    margin: 0px;
+    font-size: 14px;
+    line-height: 30px;
+  }}

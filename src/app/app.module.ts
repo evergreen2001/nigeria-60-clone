@@ -10,6 +10,9 @@ import { ChallengeAreaComponent } from './challenge-area/challenge-area.componen
 import { TimelineComponent } from './timeline/timeline.component';
 import { PrizesComponent } from './prizes/prizes.component';
 import { VoteAreaComponent } from './vote-area/vote-area.component';
+import { AboutNgComponent } from './about-ng/about-ng.component';
+import { TestimoniesComponent } from './testimonies/testimonies.component';
+import { FaqComponent } from './faq/faq.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +23,10 @@ import { VoteAreaComponent } from './vote-area/vote-area.component';
     ChallengeAreaComponent,
     TimelineComponent,
     PrizesComponent,
-    VoteAreaComponent
+    VoteAreaComponent,
+    AboutNgComponent,
+    TestimoniesComponent,
+    FaqComponent
   ],
   imports: [
     BrowserModule,

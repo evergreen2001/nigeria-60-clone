@@ -1,8 +1,16 @@
 $primary: rgb(0, 88, 53);
 $commonwhite: #fff;
+$primary-bg:#005835;
+
+
+.hero-area{
+
+background-color:$primary-bg;
+
+}
 
 .vote-area {
-  background-image: url(../../assets/imagex/bg2.svg);
+  background-image: url(../../assets/imagex/bg.svg);
   // background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,6 +21,7 @@ $commonwhite: #fff;
   h1 {
     color: $commonwhite;
     font-weight: 800;
+    margin-bottom:20px;
   }
 
   p {

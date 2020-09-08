@@ -1,0 +1,23 @@
+.about-ng {
+  background-image: url(../../assets/imagex/bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.about-ng h1 {
+  color: #005835;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.about-ng p {
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  margin: 0px;
+  font-size: 14px;
+  line-height: 30px;
+}
+/*# sourceMappingURL=about-ng.component.css.map */
