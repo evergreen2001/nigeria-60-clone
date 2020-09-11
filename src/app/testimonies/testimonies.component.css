@@ -1,0 +1,12 @@
+.testimonies-area {
+  background-image: url(../../assets/imagex/bg2.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+}
+
+.testimonies-area p {
+  color: #005835;
+  font-size: 13px;
+}
+/*# sourceMappingURL=testimonies.component.css.map */

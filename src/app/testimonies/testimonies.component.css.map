@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AAAA,iBAAiB,CAAA;EACb,gBAAgB,EAAE,gCAAgC;EAElD,iBAAiB,EAAE,SAAS;EAC5B,eAAe,EAAE,KAAK;EACtB,OAAO,EAAE,UAAU;CAOtB;;AAZD,AAMA,iBANiB,CAMjB,CAAC,CAAA;EACG,KAAK,EAZC,OAAc;EAapB,SAAS,EAAC,IAAI;CACjB",
+    "sources": [
+        "testimonies.component.scss"
+    ],
+    "names": [],
+    "file": "testimonies.component.css"
+}

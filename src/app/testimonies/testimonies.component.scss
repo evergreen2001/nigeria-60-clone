@@ -1,7 +1,18 @@
-// .testimonies-area{
+$primary: rgb(0, 88, 53);
+$commonwhite: #fff;
+$primary-bg:#005835;
 
 
+.testimonies-area{
+    background-image: url(../../assets/imagex/bg2.svg);
+    // background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0 0 0;
+p{
+    color:$primary;
+    font-size:13px;
+}
 
 
-
-// }
+}

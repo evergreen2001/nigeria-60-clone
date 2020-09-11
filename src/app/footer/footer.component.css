@@ -1,5 +1,24 @@
-
-
-footer{
-    position: relative;
+footer {
+  background-color: #005835;
+  color: #fff;
+  text-align: center;
 }
+
+footer p {
+  font-size: 13px;
+  margin: 5px 0 5px 0;
+}
+
+footer .imgx {
+  width: 7%;
+}
+
+.hero-area {
+  background-image: url(../../assets/imagex/bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=footer.component.css.map */
