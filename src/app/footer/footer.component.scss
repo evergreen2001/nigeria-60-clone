@@ -10,9 +10,12 @@ footer {
 
     p{
         font-size:13px;
-        margin:5px 0 5px 0
+        margin:17px 0 17px 0
     }
 
+    hr{
+        color:$commonwhite
+    }
 
     .imgx{
         width:7%;
@@ -26,6 +29,6 @@ footer {
       // background-attachment: fixed;
       background-repeat: no-repeat;
       background-size: cover;
-      padding: 60px 0 0 0;
+      padding: 100px 0 0 0;
       position: relative;
       overflow: hidden;}

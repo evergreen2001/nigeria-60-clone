@@ -6,7 +6,11 @@ footer {
 
 footer p {
   font-size: 13px;
-  margin: 5px 0 5px 0;
+  margin: 17px 0 17px 0;
+}
+
+footer hr {
+  color: #fff;
 }
 
 footer .imgx {
@@ -17,7 +21,7 @@ footer .imgx {
   background-image: url(../../assets/imagex/bg.svg);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 60px 0 0 0;
+  padding: 100px 0 0 0;
   position: relative;
   overflow: hidden;
 }
